@@ -1,0 +1,19 @@
+{
+  "INFO":{
+          "name": {
+            "isDisplay": true
+          },
+    "title": {
+      "isDisplay": true
+    }
+},
+  "TYPE": {
+    "categories": {
+      "isDisplay": true
+    },
+    "email": {
+      "isDisplay": true
+    }
+  }
+
+}

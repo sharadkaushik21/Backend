@@ -1,0 +1,25 @@
+{
+  "PERM_CUSTOMER": {
+   "name": {
+     "minLength": 14,
+     "maxLength": 20
+   },
+    "email": {
+      "isMandatory": false,
+      "isDisplay": true
+    }
+  },
+ "TEMP_CUSTOMER": {
+   "name": {
+     "minLength": 10,
+     "maxLength": 25
+   },
+   "email": {
+     "isMandatory": false,
+     "isDisplay": false
+   }
+ }
+
+
+
+}

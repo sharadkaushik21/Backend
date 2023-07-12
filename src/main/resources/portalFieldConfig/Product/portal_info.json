@@ -1,0 +1,23 @@
+{
+  "SOFTWARE": {
+    "os": {
+    "name": "mac",
+    "version": 13.11
+  },
+    "photo": {
+      "name": "adobe",
+      "version": 12
+    }
+  },
+  "HARDWARE": {
+    "mic": {
+      "name": "rode",
+      "price": 2000
+    },
+    "speaker": {
+      "name": "bose",
+      "price": 35000
+    }
+  }
+
+}
